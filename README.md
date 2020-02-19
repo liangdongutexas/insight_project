@@ -1,8 +1,8 @@
 This is a project helping people building a personal PC.
-# CPU GPU Specifications
+# 1. CPU GPU Specifications
 The CPU-GPU specifications are web scraped from Newegg and contained in the folder build_pc.
 
-# Pipeline
+# 2. Pipeline
 The pipeline is contained in the folder cpu_gpu_fps_predictor.
 
 ## test data
@@ -19,4 +19,5 @@ prediction data is contained in the folder cpu_gpu_fps_predictor/prediction_data
 ## frontend.py
 frontend.py is the API written with Streamlit for PC gamers to interact with the prediciton data to find the best GPU-CPU combo under the budget they have in mind.
 
+## following is the link for the API.
 http://18.212.243.178:8501
