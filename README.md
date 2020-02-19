@@ -1,5 +1,6 @@
 This is a project helping people building a personal PC.
-
+# CPU GPU Specifications
+The CPU-GPU specifications are web scraped from Newegg and contained in the folder build_pc.
 
 # Pipeline
 The pipeline is contained in the folder cpu_gpu_fps_predictor.
